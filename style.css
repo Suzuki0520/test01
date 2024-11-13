@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(221, 216, 218);
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "M+ 1p"; font-weight:900;
+    font-weight: bold;
+    color: rgb(227, 121, 121);
+}
+
+h2 {
+    text-align: center;
+    font-family: "VL ゴシック","VL Gothic";
+    color: rgb(225, 174, 111);
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    margin: 4px auto;
+}
+
+.subtitle {
+    position:relative;
+    left:25%;
+}
+
+#zairyou {
+    width: 300px;
+    border: 2px rgb(228, 146, 161) dashed;
+    padding: 7px;
+    margin: 0 auto;
+}
+
+#kizi {
+    text-align: left;
+}
+
+.sankousaito{
+    text-align: left;
+}
+
+.address{
+    text-align: left;
+}
